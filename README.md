@@ -3,6 +3,7 @@
 
 简介：个人平时的见解
 > vue项目遇到的坑
+
 [vue项目中慎重style的scoped属性](https://github.com/fruitGirl/belief/blob/master/articles/vue项目-style中的scoped属性)
 
 > js系列
