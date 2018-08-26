@@ -2,7 +2,8 @@
 ## qm的博客
 
 简介：个人平时的见解
-
+> vue项目遇到的坑
+[vue项目中慎重style的scoped属性](https://github.com/fruitGirl/belief/blob/master/articles/vue项目-style中的scoped属性)
 
 > js系列
 
@@ -10,6 +11,6 @@
 
 > ES6专题
 
-[ES6系列之let和const](http://note.youdao.com/)
+[ES6系列之let和const](https://github.com/fruitGirl/belief/blob/master/articles/ES6的有关知识点)
 
 
