@@ -6,7 +6,7 @@
 
 > vue项目遇到的坑
 
-[vue项目中慎重style的scoped属性](https://github.com/fruitGirl/belief/blob/master/articles/vue项目-style中的scoped属性)
+[vue项目中慎重style的scoped属性](https://github.com/fruitGirl/belief/blob/master/articles/vue项目-style中的scoped属性.md)
 
 [key的作用](https://github.com/fruitGirl/belief/blob/master/articles/vue项目-key的作用.md)
 
