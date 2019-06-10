@@ -19,4 +19,10 @@
 
 [ES6系列之let和const](https://github.com/fruitGirl/belief/blob/master/articles/ES6的有关知识点.md)
 
+> 踩坑小计
+
+[bizchart踩坑](https://github.com/fruitGirl/belief/blob/master/articles/bizChart踩坑.md)
+
+
+
 
